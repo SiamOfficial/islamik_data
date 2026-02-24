@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "title": "Morning Dua",
+      "category": "daily",
+      "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ",
+      "transliteration": "Asbahna wa asbahal-mulku lillah walhamdu lillah",
+      "translation": "We have reached the morning and at this very time all sovereignty belongs to Allah, and all praise is for Allah.",
+      "reference": "Muslim 4/2088"
+    },
+    {
+      "id": 2,
+      "title": "Evening Dua",
+      "category": "daily",
+      "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ",
+      "transliteration": "Amsayna wa amsal-mulku lillah walhamdu lillah",
+      "translation": "We have reached the evening and at this very time all sovereignty belongs to Allah, and all praise is for Allah.",
+      "reference": "Muslim 4/2088"
+    },
+    {
+      "id": 3,
+      "title": "Before Eating",
+      "category": "food",
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": "Bismillah",
+      "translation": "In the name of Allah.",
+      "reference": "Abu Dawud 3/347"
+    },
+    {
+      "id": 4,
+      "title": "After Eating",
+      "category": "food",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+      "transliteration": "Alhamdu lillahil-lathee at'amana wa saqana wa ja'alana muslimeen",
+      "translation": "All praise is due to Allah who has given us food and drink and made us Muslims.",
+      "reference": "Abu Dawud 4/334"
+    },
+    {
+      "id": 5,
+      "title": "Before Sleeping",
+      "category": "sleep",
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliteration": "Bismika Allahumma amootu wa ahya",
+      "translation": "In Your name O Allah, I live and I die.",
+      "reference": "Bukhari 7/71"
+    },
+    {
+      "id": 6,
+      "title": "Upon Waking Up",
+      "category": "sleep",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "transliteration": "Alhamdu lillahil-lathee ahyana ba'da ma amatana wa ilayhin-nushoor",
+      "translation": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+      "reference": "Bukhari"
+    },
+    {
+      "id": 7,
+      "title": "Entering the Home",
+      "category": "home",
+      "arabic": "بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+      "transliteration": "Bismillahi walajna, wa bismillahi kharajna, wa 'alallahi rabbina tawakkalna",
+      "translation": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we depend.",
+      "reference": "Abu Dawud 4/325"
+    },
+    {
+      "id": 8,
+      "title": "Leaving the Home",
+      "category": "home",
+      "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah",
+      "translation": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.",
+      "reference": "Abu Dawud 4/325"
+    },
+    {
+      "id": 9,
+      "title": "When Entering the Bathroom",
+      "category": "bathroom",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "transliteration": "Allahumma innee a'oothu bika minal-khubthi wal-khaba'ith",
+      "translation": "O Allah, I seek protection in You from the male and female unclean spirits.",
+      "reference": "Bukhari 1/45"
+    },
+    {
+      "id": 10,
+      "title": "When Leaving the Bathroom",
+      "category": "bathroom",
+      "arabic": "غُفْرَانَكَ",
+      "transliteration": "Ghufranaka",
+      "translation": "I seek Your forgiveness.",
+      "reference": "Abu Dawud"
+    },
+    {
+      "id": 11,
+      "title": "When Starting Travel",
+      "category": "travel",
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+      "transliteration": "Subhanal-lathee sakhkhara lana hatha wa ma kunna lahu muqrineen. Wa inna ila rabbina lamunqaliboon",
+      "translation": "Glory unto Him Who created this transportation for us though we were unable to create it on our own. And verily, unto our Lord we shall return.",
+      "reference": "Tirmidhi 5/501"
+    },
+    {
+      "id": 12,
+      "title": "For Anxiety and Sorrow",
+      "category": "difficulty",
+      "arabic": "اللَّهُمَّ إِنِّي عَبْدُكَ ابْنُ عَبْدِكَ ابْنُ أَمَتِكَ نَاصِيَتِي بِيَدِكَ مَاضٍ فِيَّ حُكْمُكَ عَدْلٌ فِيَّ قَضَاؤُكَ أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ",
+      "transliteration": "Allahumma innee 'abduka ibnu 'abdika ibnu amatika, nasiyatee biyadika, madin fiyya hukmuka, 'adlun fiyya qada'uka",
+      "translation": "O Allah, I am Your servant, son of Your servant, son of Your maidservant, my forelock is in Your hand, Your command over me is forever executed and Your decree over me is just.",
+      "reference": "Ahmad 1/391"
+    },
+]
