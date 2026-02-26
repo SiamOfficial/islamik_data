@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Laylat al-Qadr (Night of Power)",
+    "month": 9,
+    "days": [27],
+    "description": "The holiest night of Ramadan, when the Qur'an was first revealed to Prophet Muhammad ﷺ. Worship on this night is considered better than a thousand months."
+  },
+  {
+    "name": "Eid al-Fitr",
+    "month": 10,
+    "days": [1, 2, 3],
+    "description": "Festival marking the end of Ramadan. Muslims celebrate with prayers, charity, feasts, and community gatherings."
+  },
+  {
+    "name": "Day of Arafah",
+    "month": 12,
+    "days": [9],
+    "description": "The day before Eid al-Adha, when pilgrims gather at Mount Arafat during Hajj. It is highly recommended for non-pilgrims to fast."
+  },
+  {
+    "name": "Eid al-Adha",
+    "month": 12,
+    "days": [10, 11, 12, 13],
+    "description": "Festival of Sacrifice, commemorating Prophet Ibrahim’s willingness to sacrifice his son for Allah. Animals are sacrificed and meat shared with the poor."
+  },
+  {
+    "name": "Islamic New Year",
+    "month": 1,
+    "days": [1],
+    "description": "Marks the beginning of the Islamic lunar calendar year, starting with Muharram."
+  },
+  {
+    "name": "Ashura",
+    "month": 1,
+    "days": [10],
+    "description": "A day of fasting and reflection. For Sunnis, it commemorates Prophet Musa’s deliverance from Pharaoh. For Shia Muslims, it marks the martyrdom of Imam Hussain at Karbala."
+  },
+  {
+    "name": "Mawlid al-Nabi (Prophet's Birthday)",
+    "month": 3,
+    "days": [12],
+    "description": "Celebration of the birth of Prophet Muhammad ﷺ, observed with gatherings, recitations, and remembrance."
+  },
+  {
+    "name": "Isra and Mi'raj",
+    "month": 7,
+    "days": [27],
+    "description": "Commemorates the miraculous night journey and ascension of Prophet Muhammad ﷺ to the heavens."
+  },
+  {
+    "name": "Shab-e-Barat",
+    "month": 8,
+    "days": [15],
+    "description": "Known as the Night of Forgiveness. Muslims spend the night in prayer, seeking forgiveness and blessings."
+  },
+  {
+    "name": "Ramadan Begins",
+    "month": 9,
+    "days": [1],
+    "description": "The start of the holy month of fasting, prayer, charity, and spiritual reflection."
+  },
+  {
+    "name": "Hajj Begins",
+    "month": 12,
+    "days": [8],
+    "description": "The annual pilgrimage to Mecca, one of the five pillars of Islam, obligatory once in a lifetime for those who are able."
+  },
+  {
+    "name": "Mid-Sha'ban",
+    "month": 8,
+    "days": [14],
+    "description": "Observed in some traditions as a night of prayer and preparation before Ramadan."
+  }
+]
