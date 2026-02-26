@@ -2,10 +2,10 @@
   {
     "id": 1,
     "title": "Zakat",
-    "category": "Pillar",
+    "category": "pillar",
     "question": "What is the nisab threshold?",
-    "answer": "the nisab threshold is 595g Silver or 85g Gold",
+    "answer": "The nisab threshold is 595g Silver or 85g Gold",
     "longanswer": "Zakat is 2.5% of your wealth, which is only applicable when your wealth is worth 595g Silver or 85g Gold.",
-    "reference": "Al Quran"
+    "reference": "Sahih Muslim"
   }
 ]
